@@ -1,4 +1,4 @@
-Welcome to the I'm Learning Animal Names app for Android!
+## Welcome to the I'm Learning Animal Names app for Android!
 
 This is an open source Android app developed by Özgür Peynirci(Raijin Apps). This app has been made available for Google Play.
 
